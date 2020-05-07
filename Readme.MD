@@ -21,3 +21,8 @@
 | 172.16.31.160          | 172.16.31.161 - 172.16.31.190       | 172.16.31.191      |
 | 172.16.31.192          | 172.16.31.193 - 172.16.31.222       | 172.16.31.223      |
 | 172.16.31.224          | 172.16.31.225 - 172.16.31.254       | 172.16.31.255      |
+
+
+
+Host computers will use the first IP address in the subnet. The network router will use the LAST network host address. The switch will use the second to the last network host address.
+Write down the IP address information for each device:
